@@ -1,0 +1,6 @@
+diagram_type="Mind Map"             #[Examples: Flowchart, Mind Map, Hierarchical Diagram, Venn Diagram, Process Diagram]
+color_scheme="Vibrant"              #[Examples: Minimalist (Black & White), Vibrant (Bright Colors), Brand Colors (Industry-specific)]
+font_style="Sans-serif"             #[Examples: Serif, Sans-serif, Handwritten]
+icon_preference="Minimal"           #[Examples: None, Minimal, Detailed]
+layout_orientation="Vertical"       #[Examples: Horizontal, Vertical, Radial, Freeform]
+target_audience="General Audience"  #[Examples: General Audience, Students, Teachers, Children]
